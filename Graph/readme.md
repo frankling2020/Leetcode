@@ -1,0 +1,3 @@
+- [Second small delay](https://leetcode-cn.com/problems/second-minimum-time-to-reach-destination/)
+- [Min Cost](https://leetcode-cn.com/problems/min-cost-to-connect-all-points/)
+- [Increasing Path](https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix/)
