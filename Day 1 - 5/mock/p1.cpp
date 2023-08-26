@@ -41,7 +41,7 @@ int main(int argc, char* argv[]) {
     int ans = 0;
     dfs_height(tree[0]);
     for (int i = 0; i < n; ++i) if (tree[i]->isFull) {++ans; cout << i << " ";}
-    for (auto node: tree) delete node;
+    for (int i = 0; i < n; ++i) delete tree[i];
     cout << ans << endl;
 }
 
